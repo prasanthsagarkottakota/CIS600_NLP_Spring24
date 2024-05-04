@@ -1,4 +1,4 @@
-Link to Kaggle Notebook files
+Link to Kaggle Notebook files:
 https://www.kaggle.com/code/prasanthsagar32/nlp-final-project-urldecomposition-bert
 https://www.kaggle.com/code/prasanthsagar32/nlp-project-count-vectorizer
 https://www.kaggle.com/code/prasanthsagar32/nlp-project-tf-idf
